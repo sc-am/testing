@@ -1386,6 +1386,7 @@ set(DISSECTOR_SRC
 	dissectors/packet-zep.c
 	dissectors/packet-ziop.c
 	dissectors/packet-zrtp.c
+	dissectors/packet-foo.c
 )
 
 set(DIRTY_DISSECTOR_SRC
